@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/frontend-mern-auth/static/js/main.40ecd229.chunk.js",
-    "main.js.map": "/frontend-mern-auth/static/js/main.40ecd229.chunk.js.map",
+    "main.js": "/frontend-mern-auth/static/js/main.e0922ee6.chunk.js",
+    "main.js.map": "/frontend-mern-auth/static/js/main.e0922ee6.chunk.js.map",
     "runtime-main.js": "/frontend-mern-auth/static/js/runtime-main.ae57d008.js",
     "runtime-main.js.map": "/frontend-mern-auth/static/js/runtime-main.ae57d008.js.map",
     "static/css/2.6010d4dc.chunk.css": "/frontend-mern-auth/static/css/2.6010d4dc.chunk.css",
-    "static/js/2.5148e8f9.chunk.js": "/frontend-mern-auth/static/js/2.5148e8f9.chunk.js",
-    "static/js/2.5148e8f9.chunk.js.map": "/frontend-mern-auth/static/js/2.5148e8f9.chunk.js.map",
+    "static/js/2.33200fdd.chunk.js": "/frontend-mern-auth/static/js/2.33200fdd.chunk.js",
+    "static/js/2.33200fdd.chunk.js.map": "/frontend-mern-auth/static/js/2.33200fdd.chunk.js.map",
     "index.html": "/frontend-mern-auth/index.html",
-    "precache-manifest.291cd30aa3e0dab15112616f3f083213.js": "/frontend-mern-auth/precache-manifest.291cd30aa3e0dab15112616f3f083213.js",
+    "precache-manifest.6155fb6c812ba47ced033a833c84a035.js": "/frontend-mern-auth/precache-manifest.6155fb6c812ba47ced033a833c84a035.js",
     "service-worker.js": "/frontend-mern-auth/service-worker.js",
     "static/css/2.6010d4dc.chunk.css.map": "/frontend-mern-auth/static/css/2.6010d4dc.chunk.css.map",
-    "static/js/2.5148e8f9.chunk.js.LICENSE.txt": "/frontend-mern-auth/static/js/2.5148e8f9.chunk.js.LICENSE.txt"
+    "static/js/2.33200fdd.chunk.js.LICENSE.txt": "/frontend-mern-auth/static/js/2.33200fdd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ae57d008.js",
     "static/css/2.6010d4dc.chunk.css",
-    "static/js/2.5148e8f9.chunk.js",
-    "static/js/main.40ecd229.chunk.js"
+    "static/js/2.33200fdd.chunk.js",
+    "static/js/main.e0922ee6.chunk.js"
   ]
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eb74952df2f1169218bd8d98abfb19ee",
+    "revision": "5d0afd34f6aad19c9c8282d5c84033fb",
     "url": "/frontend-mern-auth/index.html"
   },
   {
-    "revision": "00b19fcd5ff3b3964d59",
+    "revision": "b456e70bb6590d820ac8",
     "url": "/frontend-mern-auth/static/css/2.6010d4dc.chunk.css"
   },
   {
-    "revision": "00b19fcd5ff3b3964d59",
-    "url": "/frontend-mern-auth/static/js/2.5148e8f9.chunk.js"
+    "revision": "b456e70bb6590d820ac8",
+    "url": "/frontend-mern-auth/static/js/2.33200fdd.chunk.js"
   },
   {
     "revision": "20e794d2bc82e066633b87e6855036b9",
-    "url": "/frontend-mern-auth/static/js/2.5148e8f9.chunk.js.LICENSE.txt"
+    "url": "/frontend-mern-auth/static/js/2.33200fdd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7691c99310cea37ceec8",
-    "url": "/frontend-mern-auth/static/js/main.40ecd229.chunk.js"
+    "revision": "0792d8eb0d47db34e421",
+    "url": "/frontend-mern-auth/static/js/main.e0922ee6.chunk.js"
   },
   {
     "revision": "3fcf158d318c96e2b7e6",
