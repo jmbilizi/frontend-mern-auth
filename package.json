@@ -2,6 +2,9 @@
   "homepage": "http://Janviermbilizi.github.io/frontend-mern-auth",
   "name": "client",
   "version": "0.1.0",
+  "engines": {
+    "node": "12.10.0"
+  },
   "private": true,
   "dependencies": {
     "axios": "^0.19.0",
